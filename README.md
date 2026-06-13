@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/google-gemini/cookbook/main/images/gemini_logo.png" alt="Gemini Logo" width="150">
-  
+ 
   # 🌌 Portfolio*HUB* + IA GEMINI
   
   <p align="center">
