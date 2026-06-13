@@ -1,0 +1,18 @@
+# === Configurações de Segurança / Credenciais ===
+# Nunca suba arquivos que contenham chaves de API do Gemini ou do GitHub
+.env
+*.env
+credentials.json
+chaves.txt
+
+# === Dependências de Projetos (se aplicar) ===
+# Caso decida usar pacotes futuramente (Node.js/npm)
+node_modules/
+npm-debug.log*
+
+# === Arquivos de Sistema e IDEs ===
+# Arquivos que o seu próprio computador gera e não precisam ir para o GitHub
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
