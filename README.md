@@ -1,6 +1,6 @@
 <div align="center">
  
-  # 🌌 Portfolio*HUB* + IA GEMINI
+  # 🌌 Portfolio*HUB* + IA GEMINI - Luis Eduardo V Souza
   
   <p align="center">
     <img src="https://img.shields.io/github/directory-file-count/SEU_USUARIO/portifolioHUB?style=for-the-badge&color=6f42c1" alt="Pastas">
