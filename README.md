@@ -41,6 +41,7 @@ Abaixo estão alguns projetos centralizados neste hub.
 * **Junior Data Analysis** PowerBI, SQL, Excel
 * **Banco de Dados** PostgreSQL, NoSQL, Python
 * **AI** ChatGPT, Google Gemini
+* **Metodologias Agéis** Scrun, Kanban, Trello
 
 ---
 
