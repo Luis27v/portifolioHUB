@@ -1,22 +1,19 @@
 <div align="center">
  
   # 🌌 Portfolio*HUB* + IA GEMINI - Luis Eduardo V Souza
-  
-  <p align="center">
-    <img src="https://img.shields.io/github/directory-file-count/SEU_USUARIO/portifolioHUB?style=for-the-badge&color=6f42c1" alt="Pastas">
-    <img src="https://img.shields.io/github/last-commit/SEU_USUARIO/portifolioHUB?style=for-the-badge&color=007acc" alt="Último Commit">
-    <img src="https://img.shields.io/github/license/SEU_USUARIO/portifolioHUB?style=for-the-badge&color=success" alt="Licença">
-  </p>
 
-  > **Desafio - Entrega Final:** Plataforma centralizada para exibição, gestão de segurança e controle de acesso de portfólios digitais.
+  > **Desafio - Entrega Final:** Plataforma centralizada para exibição, gestão de segurança e controle de acesso de portfólios digitais. Esse repositório foi criado como parte da entrega PortfolioHUB, integrado a utilização de versionamento Git-Github. visando organização de projetos.
 </div>
 
 ---
 
 ## 🧑‍💻 Sobre Mim
-Olá! Sou um desenvolvedor focado em organização e boas práticas de código. Este repositório foi estruturado utilizando metodologias de controle de versão (Git/GitHub) e segurança da informação, com o suporte estratégico da inteligência artificial **Google Gemini**.
+Olá me chamo Luis Eduardo, Sou estudante de Engenharia de Software. Este repositório foi estruturado utilizando metodologias de controle de versão (Git/GitHub) e segurança da informação, com o suporte estratégico da inteligência artificial **Google Gemini**.
 
 ---
+
+## 🎯 Objetivo 
+O Objetivo deste repositorio é documentar, centralizar e manter a organização de projetos acadêmicos e pessoais, durante o curso de Eng. de Software.
 
 ## 🛡️ Gestão & Segurança do Hub
 Para cumprir os requisitos de governança do desafio, a estrutura conta com:
@@ -28,12 +25,22 @@ Para cumprir os requisitos de governança do desafio, a estrutura conta com:
 
 ## 📂 Projetos Implantados
 
-Abaixo estão os projetos centralizados neste hub. Clique nos cards/links para acessar a implantação oficial via **GitHub Pages**:
+Abaixo estão alguns projetos centralizados neste hub. 
 
-| Projeto | Descrição | Link de Acesso |
-| :--- | :--- | :--- |
-| <img src="https://cdn-icons-png.flaticon.com/512/2621/2621103.png" width="22"> **Projeto 01** | Plataforma de exibição e interfaces responsivas. | [🌐 Acessar Projeto](./projeto-01/) |
-| <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="22"> **Projeto 02** | Aplicação integrada com rotinas de controle de dados. | [🌐 Acessar Projeto](./projeto-02/) |
+* `projetos-academicos/` - Quaisquer projetos feitos durante a graduação, posteriormente atualzido e filtrado por disciplina
+* `projetos-pessoais/` - Projetos experimentais, pessoais e até projetos de aprendizagem
+* `.gitignore` - Arquivos/pastas ignoradas pelo git relacionados a segurança do repositorio
+
+---
+## 🛠️ Habilidades e Competências
+
+* **Versionamento de Códigos** Git, GitHub
+* **Documentação de projetos** Google Workspace e Microsoft Office
+* **Documentação técnica** Markdown e Docs
+* **Web-Development** JavaScript, CSS, HTML
+* **Junior Data Analysis** PowerBI, SQL, Excel
+* **Banco de Dados** PostgreSQL, NoSQL, Python
+* **AI** ChatGPT, Google Gemini
 
 ---
 
@@ -43,10 +50,19 @@ Abaixo estão os projetos centralizados neste hub. Clique nos cards/links para a
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code" alt="Visual Studio code">
 </p>
 
 ---
 
+## 📞 Contato ##
+ 
+* Perfil no [LinkedIN](https://www.linkedin.com/in/luis-eduardo-vsouza/)
+* **E-mail** - luis.vsouza@sempreceub.com
+* [Apresentação de Slides](https://docs.google.com/presentation/d/14iDxXVeqsLLoDEqXjewYIWY4EzhJiX8OarLFYSgFHDA/edit?usp=sharing)
+
+---
+
 <div align="center">
-  <p>Desenvolvido com 💜 durante o Desafio de Implantação.</p>
+  <p>Desenvolvido por Luis Eduardo V Souza durante o Desafio de Implantação.</p>
 </div>
